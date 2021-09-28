@@ -1,13 +1,13 @@
 {
   "name": "@toc-cli/core",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "description": "> TODO: description",
   "author": "shibin <shibin.you@qq.com>",
   "homepage": "https://github.com/coddingus/toc-cli#readme",
   "license": "MIT",
   "main": "lib/core.js",
   "bin": {
-    "toc-cli":"bin/index.js"
+    "toc-cli": "bin/index.js"
   },
   "directories": {
     "lib": "lib",
