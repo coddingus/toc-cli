@@ -1,5 +1,5 @@
 {
-  "name": "utils",
+  "name": "@toc-cli/utils",
   "version": "0.0.22",
   "description": "> TODO: description",
   "author": "shibin <shibin.you@qq.com>",
@@ -25,5 +25,6 @@
   },
   "bugs": {
     "url": "https://github.com/coddingus/toc-cli/issues"
-  }
+  },
+  "gitHead": "4f02882f3a041588ef9d836d4afe924986ddb051"
 }
