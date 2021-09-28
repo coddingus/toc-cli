@@ -1,6 +1,20 @@
 {
   "name": "toc-cli",
-  "devDependencies": {
-    "lerna": "^4.0.0"
-  }
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coddingus/toc-cli.git"
+  },
+  "keywords": [],
+  "author": "shibin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coddingus/toc-cli/issues"
+  },
+  "homepage": "https://github.com/coddingus/toc-cli#readme"
 }
