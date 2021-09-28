@@ -2,7 +2,8 @@
 
 module.exports = utils;
 
-function utils() {
-    // TODO
-    return a + b
+const utils = {
+    add(a, b){
+        return a +b
+    }
 }
