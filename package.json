@@ -1,6 +1,6 @@
 {
   "name": "toc-cli",
-  "version": "1.0.0",
+  "version": "0.0.14",
   "description": "",
   "main": "index.js",
   "scripts": {
