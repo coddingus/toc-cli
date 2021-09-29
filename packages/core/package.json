@@ -3,11 +3,11 @@
   "version": "0.0.23",
   "description": "> TODO: description",
   "author": "shibin <shibin.you@qq.com>",
-  "homepage": "https://github.com/coddingus/toc-cli#readme",
+  "homepage": "https://github.com/coddingus/toc-cli/tree/master/packages/core#readme",
   "license": "MIT",
   "main": "lib/core.js",
   "bin": {
-    "toc-cli": "bin/index.js"
+    "toc-cli": "./packages/core/cli/index.js"
   },
   "directories": {
     "lib": "lib",
@@ -25,9 +25,5 @@
   },
   "bugs": {
     "url": "https://github.com/coddingus/toc-cli/issues"
-  },
-  "publishConfig": {
-    "access": "public"
-  },
-  "gitHead": "4f02882f3a041588ef9d836d4afe924986ddb051"
+  }
 }

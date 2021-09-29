@@ -19,5 +19,9 @@
   "homepage": "https://github.com/coddingus/toc-cli#readme",
   "publishConfig": {
     "access": "public"
+  },
+  "dependencies": {
+    "import-local": "^3.0.2",
+    "npmlog": "^5.0.1"
   }
 }
