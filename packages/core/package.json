@@ -7,7 +7,7 @@
   "license": "MIT",
   "main": "lib/core.js",
   "bin": {
-    "toc-cli": "./packages/core/cli/index.js"
+    "toc-cli": "./cli/index.js"
   },
   "directories": {
     "lib": "lib",
@@ -25,5 +25,16 @@
   },
   "bugs": {
     "url": "https://github.com/coddingus/toc-cli/issues"
+  },
+  "dependencies": {
+    "@toc-cli/log": "file:../log",
+    "colors": "^1.4.0",
+    "dotenv": "^10.0.0",
+    "import-local": "^3.0.2",
+    "minimist": "^1.2.5",
+    "path-exists": "^3.0.0",
+    "root-check": "^1.0.0",
+    "semver": "^7.3.5",
+    "user-home": "^3.0.0"
   }
 }

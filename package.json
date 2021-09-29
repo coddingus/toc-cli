@@ -21,7 +21,6 @@
     "access": "public"
   },
   "dependencies": {
-    "import-local": "^3.0.2",
-    "npmlog": "^5.0.1"
+    "import-local": "^3.0.2"
   }
 }
